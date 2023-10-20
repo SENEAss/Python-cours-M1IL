@@ -1,0 +1,3 @@
+Explication de l'utilité du gitignore:
+- Créer un nouveau fichiier .gitignore
+- Créer une variable d'env avec la commande suivante: python -m venv "nomdelavariable"
